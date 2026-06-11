@@ -24,4 +24,9 @@ export const loginData = [
     password: "7404234383",
     isValid: true,
   },
+  {
+    email: "vikas00@mailinator.com",
+    password: "7404234383",
+    isValid: true,
+  },
 ];
